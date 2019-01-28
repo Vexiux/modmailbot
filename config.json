@@ -1,0 +1,15 @@
+{
+  "token": "NTM3ODE5NDc5ODI1MDU1NzU0.DyqzEg.y_NkVSb_3i8gll9KlqShvISL5i0",
+  "mailGuildId": "537818400152354836",
+  "mainGuildId": "537416843368071178",
+  "logChannelId": "537820084299890718",
+
+  "status": "DM for In & Out Help",
+  "responseMessage": "Thank you for contacting the In & Out Support Team. We will get back to you as soon as possible! :)",
+  "closeMessage": "Thank you again for contacting the In & Out Support Team. We hope your issue was resolved. Have a nice day!",
+  "useNicknames": "true",
+  "port": "8891",
+  "typingProxy": "true",
+  "typingProxyReverse": "true"
+
+}
